@@ -19,7 +19,7 @@ Run ```sudo systemctl restart nginx.service```
 2. Then select "Custom RPC".  
 3. Set the name to whatever you like.  
 4. Set the "New RPC URL", set it to ```http://<THEIPOFYOURSERVER>``` (We will go into using HTTPS in the next section).  
-5.  Set "Chain ID" to 1.  
+5.  Set "Chain ID" to 1133.  
 The rest is optional and not required, MetaMask will work just the same if you do not enter anything.  
 Enjoy!  
 
